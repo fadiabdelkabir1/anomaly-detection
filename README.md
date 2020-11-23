@@ -1,4 +1,4 @@
-#Anamoly Detection      
+# ANAMOLY DETECTION
 • TASKS:        
 o Project Overview and Import Libraries         
 o Load and Inspect the S&P 500 Index Data               
